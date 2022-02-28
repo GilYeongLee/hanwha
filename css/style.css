@@ -17,7 +17,7 @@ a img {border:none;}
     header 
 =========================================================== */
 
-#wrap header {width: 100%; height: 100px; line-height: 100px; position: fixed; top:0; left: 0; z-index: 999; background: rgba(0,0,0,0.2);}
+#wrap header {width: 100%; height: 100px; line-height: 100px; position: fixed; top:0; left: 0; z-index: 999; background: rgba(0,0,0,1);}
 .innerHeader {width: 1400px; height: 100%; margin: 0 auto;}
 .innerHeader .logo {float: left;}
 .innerHeader .logo img { margin-top: 25px;}
